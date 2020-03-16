@@ -1,6 +1,6 @@
 # reddit_scrapper
 
-1. Scrappes the Livestreamfail subreddit using praw
+1. Scrapes the Livestreamfail subreddit using praw
 2. Retreives the clip via twitch API or Livestreamfail site
 3. Edits and concatenates the clips using moviepy, note: installation of magick is required for editing with moviepy.
 4. Uploads the final video to youtube using youtube API.
